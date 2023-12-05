@@ -1,0 +1,14 @@
+C:\Users\nauber.gdsouza\source\repos\Pombinhos\Pombinhos\bin\Debug\Pombinhos.exe.config
+C:\Users\nauber.gdsouza\source\repos\Pombinhos\Pombinhos\bin\Debug\Pombinhos.exe
+C:\Users\nauber.gdsouza\source\repos\Pombinhos\Pombinhos\bin\Debug\Pombinhos.pdb
+C:\Users\nauber.gdsouza\source\repos\Pombinhos\Pombinhos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nauber.gdsouza\source\repos\Pombinhos\Pombinhos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nauber.gdsouza\source\repos\Pombinhos\Pombinhos\obj\Debug\Pombinhos.csproj.AssemblyReference.cache
+C:\Users\nauber.gdsouza\source\repos\Pombinhos\Pombinhos\obj\Debug\Pombinhos.csproj.SuggestedBindingRedirects.cache
+C:\Users\nauber.gdsouza\source\repos\Pombinhos\Pombinhos\obj\Debug\Pombinhos.Form1.resources
+C:\Users\nauber.gdsouza\source\repos\Pombinhos\Pombinhos\obj\Debug\Pombinhos.Properties.Resources.resources
+C:\Users\nauber.gdsouza\source\repos\Pombinhos\Pombinhos\obj\Debug\Pombinhos.csproj.GenerateResource.cache
+C:\Users\nauber.gdsouza\source\repos\Pombinhos\Pombinhos\obj\Debug\Pombinhos.csproj.CoreCompileInputs.cache
+C:\Users\nauber.gdsouza\source\repos\Pombinhos\Pombinhos\obj\Debug\Pombinhos.csproj.CopyComplete
+C:\Users\nauber.gdsouza\source\repos\Pombinhos\Pombinhos\obj\Debug\Pombinhos.exe
+C:\Users\nauber.gdsouza\source\repos\Pombinhos\Pombinhos\obj\Debug\Pombinhos.pdb
